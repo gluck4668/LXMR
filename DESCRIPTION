@@ -1,0 +1,10 @@
+Package: LXMR
+Type: Package
+Title: LXMR
+Version: 1.0
+Author: Dr.Lin
+Maintainer: Dr.Lin <gluck4668@sina.com>
+Description: The package can be used to analyze MR.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
